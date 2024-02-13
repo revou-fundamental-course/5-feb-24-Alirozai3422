@@ -62,7 +62,7 @@ body {
   
   .guidelines {
     max-width: 800px;
-    background-color: rgb(180, 180, 168);
+    background-color: rgb(0, 0, 0);
     padding: 10px;
     border-radius: 10px;
     margin-top: 20px;
@@ -70,7 +70,7 @@ body {
   
   #err_msg {
     font-size: 12px;
-    color: #b6a9a9;
+    color: #000000;
     margin: 0px;
     margin-bottom: 5px;
     margin-top: 4px;
@@ -79,7 +79,7 @@ body {
   
   .error {
     margin-bottom: 0px;
-    border: 2px solid rgb(206, 199, 199);
+    border: 2px solid rgb(172, 163, 163);
   }
   
   .msg_show {
