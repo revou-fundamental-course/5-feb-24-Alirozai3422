@@ -27,35 +27,35 @@ body {
   
   .convert {
     color: white;
-    background-color: #2a3531;
+    background-color: #5f6864;
   }
   
   .reset {
     color: white;
-    background-color: #2b2525;
+    background-color: #5f6864;
     border: 2px solid #ffffff;
   }
   
   .reverse {
     color: white;
-    background-color: #383030;
+    background-color: #5f6864;
     border: 2px solid #ffffff;
   }
   
   .convert:hover {
-    border: 2px solid #2e2a2a;
+    border: 2px solid #5f6864;
     color: black;
     background-color: rgb(49, 43, 43);
   }
   
   .reset:hover {
-    border: 2px solid #2c2828;
+    border: 2px solid #5f6864;
     color: black;
     background-color: rgb(46, 40, 40);
   }
   
   .reverse:hover {
-    border: 2px solid #2b2727;
+    border: 2px solid #5f6864;
     color: black;
     background-color: rgb(44, 39, 39);
   }
